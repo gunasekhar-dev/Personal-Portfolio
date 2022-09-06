@@ -614,7 +614,7 @@ h3.profession {
 .portfolio .portfolio-item-inner {
   border: 6px solid var(--bg-black-100);
   border-radius: 10px;
-  height: 200px;
+  height: 180px;
   overflow: hidden;
   cursor: pointer;
 }
